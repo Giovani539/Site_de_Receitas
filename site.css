@@ -1,7 +1,8 @@
 :root {
     Cor-primaria: #00d584ec;
-    
+
 }
-.head{
-display: flex;
+
+.header {
+    display: flex;
 }
