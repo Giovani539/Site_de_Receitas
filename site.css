@@ -1,10 +1,11 @@
 :root {
-    Cor-primaria: #00d584ec;
+    cor-primaria: #00d584ec;
 
 }
 
 .header {
     display: flex;
+    background-color: var(cor-primaria);
     
     
 }
